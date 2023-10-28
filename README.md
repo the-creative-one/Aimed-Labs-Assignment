@@ -1,3 +1,6 @@
+# Completed Assignment
+This assignment was particularly valuable for me as it marked my first experience with Styled Components.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
